@@ -9,12 +9,12 @@ The project aims to conduct a statistical analysis of the Income dataset and app
 The dataset used in this analysis is the Adult dataset from the UCI Machine Learning repository, which contains information on individuals' demographic and economic attributes.
 
 #### Numerical variables
-•Age
-•Fnlwgt
-•Education num
-•capital gain
-•Capital loss
-•hours per week
+•Age  
+•Fnlwgt  
+•Education num  
+•capital gain  
+•Capital loss   
+•hours per week  
 
 #### Categorical variables
 •Workclass
