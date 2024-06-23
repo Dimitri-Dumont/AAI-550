@@ -1,15 +1,15 @@
 # AAI-550
 
-## Objective**
+## Objective
 
 The project aims to conduct a statistical analysis of the Income dataset and apply a range of classification models to accurately predict whether a person's income is below or above 50K. The essential steps involve analyzing and engineering the Income dataset and developing a robust prediction algorithm to determine income levels based on diverse features.
 
 ## About the Dataset
-**
+
 The dataset used in this analysis is the Adult dataset from the UCI Machine Learning repository, which contains information on individuals' demographic and economic attributes.
 
 #### Numerical variables
-**•Age
+•Age
 •Fnlwgt
 •Education num
 •capital gain
@@ -17,7 +17,7 @@ The dataset used in this analysis is the Adult dataset from the UCI Machine Lear
 •hours per week
 
 #### Categorical variables
-**•Workclass
+•Workclass
 •Education
 •Marital status
 •Occupation
@@ -26,8 +26,8 @@ The dataset used in this analysis is the Adult dataset from the UCI Machine Lear
 •Sex
 •Native country
 
-**Target variable
-**Income
+Target variable
+Income
 
 #### Stats
 
