@@ -41,13 +41,13 @@ Task is to predict if a person earns more than 50K
 
 ## Data cleaning & Preparation
 
-Data Cleaning
-Handling Noise and Missing data
-Encoding Categorical Features
-Label Encoding
-Outlier treatment
-Box plot
-Z-score
+Data Cleaning  
+Handling Noise and Missing data  
+Encoding Categorical Features  
+Label Encoding  
+Outlier treatment  
+Box plot    
+Z-score  
 
 
 
