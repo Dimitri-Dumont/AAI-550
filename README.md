@@ -49,6 +49,25 @@ Outlier treatment
 Box plot
 Z-score
 
+## Model Selection 
+
+1. Logistic Regression
+2. Random Forest Classifier
+3. Support Vector Classfier
+4. Naive Bayes
+5. Gradient Boosting
+
+## Model Evaluation
+1. Training accuracy
+2. Testing Accuracy
+3. Precsion
+4. Recall
+5. F1 Score
+
+Conclusion:
+
+Gradient boosting stands out among all the classifiers. It consistently identifies and predicts the income level with an impressive 86% accuracy, a testament to its robust performance.
+
 
 
 
